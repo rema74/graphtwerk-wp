@@ -9,8 +9,6 @@
  * @since 2.3.0
  */
 
-/* test */
-/* test2 */
 /**
  * Redirects incoming links to the proper URL based on the site url.
  *
